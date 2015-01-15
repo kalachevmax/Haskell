@@ -1,1 +1,1 @@
-Some my Haskell code.
+Some of my haskell code.
